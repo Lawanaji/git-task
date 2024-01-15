@@ -2,7 +2,10 @@
 Version control is a system that records changes to files over time, allowing you to recall specific versions later. It helps track modifications to code, documents, and other files, enabling collaboration among multiple users. Version control systems allow you to revert to previous versions, compare changes, and merge modifications made by different users.
 
 # 2. Difference between Git and GitHub:
-Git is a distributed version control system that allows you to track changes in your code. It runs locally on your computer and does not require a constant connection to a central repository. GitHub, on the other hand, is a web-based platform that provides hosting for Git repositories. It offers additional features such as issue tracking, pull requests, and project management tools.
+Git is a distributed version control system that allows you to track changes in your code. It runs locally on your computer and does not require a constant connection to a central repository. 
+
+# GitHub
+GitHub, on the other hand, is a web-based platform that provides hosting for Git repositories. It offers additional features such as issue tracking, pull requests, and project management tools.
 
 # 3. Three GitHub Alternatives:
 
